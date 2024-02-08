@@ -4,6 +4,7 @@ I'm Jefferson Gomes, I'm a software developer and a great technology enthusiast.
 I'm always looking for new challenges, creating various projects and exploring different technologies.
 
 ### 📍 I live in Belo Horizonte/MG, Brazil :brazil:
+- 📅 I'm 25 years old
 - 📚 Graduated in Computer Scientist at the Centro Universitário de Belo Horizonte - UNIBH.
 
 <br/>
