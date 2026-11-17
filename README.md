@@ -6,7 +6,7 @@ I'm currently strengthening my skills in Java and backend development with Sprin
 
 I enjoy solving practical problems, building software projects, and continuously improving my software engineering skills.
 
-I'm currently open to junior software development opportunities, especially in backend development.
+I'm currently open to backend development opportunities, particularly roles involving Java, Spring Boot, and PHP.
 
 ---
 
@@ -75,8 +75,3 @@ Most of my projects are organized by technology or programming language.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffersongsilva81/)
 [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jeffsilvaygo)
 
----
-
-## 🧠 GitHub Stats
-
-![Profile views](https://komarev.com/ghpvc/?username=jprogram&color=brightgreen)
